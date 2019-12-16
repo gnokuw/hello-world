@@ -1,5 +1,5 @@
 # hello-world
-This is a updated test on 16-12-2019.
+This is an updated test on 16-12-2019.
 
 Original
 
